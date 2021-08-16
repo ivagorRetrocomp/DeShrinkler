@@ -3,6 +3,6 @@ Intel 8080 decoder for modified Shrinkler compressor without parity context (Edo
 
 https://www.cpcwiki.eu/forum/programming/modified-shrinkler-without-parity-context/
 
-Original Shrinkler (Aske Simon Christensen):
+Intel x86 (8088/8086) decoder for original Shrinkler (Aske Simon Christensen):
 
 https://github.com/askeksa/Shrinkler
